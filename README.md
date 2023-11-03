@@ -1,5 +1,5 @@
 # gist.github.com-scrapper
-can search and download public gists. WORKS AS A LIBRARY.
+can search and download public gists. works as a library, no command line
 
 `download_query_gists` is the main function, it has all of the stuff explained
 
