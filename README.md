@@ -3,6 +3,7 @@ can search and download public gists.
 
 `download_query_gists` is the main function, it has all of the stuff explained
 
+_________
 
 Searches for `query` on gist.github.com and downloads first `count` gists as strings, returns list of strings.
     
