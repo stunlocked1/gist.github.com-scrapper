@@ -2,6 +2,7 @@
 can search and download public gists.
 
 `download_query_gists` is the main function, it has all of the stuff explained
+
 """
 _____________________________________________________________________________________________
 """
