@@ -2,8 +2,10 @@
 can search and download public gists.
 
 `download_query_gists` is the main function, it has all of the stuff explained
+"""
+_____________________________________________________________________________________________
+"""
 
-    """
     Searches for `query` on gist.github.com and downloads first `count` gists as strings, returns list of strings.
     
     `query` - what will be searched for on gist.github.com
@@ -21,4 +23,4 @@ can search and download public gists.
     `poolsize` - pool size for multithreading/multiprocessing when downloading gists.
     
     `pagepoolsize` - pool size for multithreading/multiprocessing when downloading result pages.
-    """
+
